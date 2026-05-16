@@ -103,13 +103,13 @@ Helmet Sensors → ESP32 → Sensor Data Processing → Hazard Detection → Ale
 
 # System Architecture
 
-![Architecture](Drawings/picture 4.png)
+![Architecture](Drawings/picture4.png)
 
 ---
 
 # Obstacle Detection Workflow
 
-![Flowchart](Drawings/picture 5.png)
+![Flowchart](Drawings/picture5.png)
 
 ---
 
