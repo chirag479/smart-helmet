@@ -171,11 +171,6 @@ esp32-smart-helmet/
 │   ├── fig2_flowchart.png
 │   └── system_design.png
 │
-├── Images/
-│   ├── prototype.jpg
-│   ├── working_demo.jpg
-│   ├── hardware_setup.jpg
-│   └── smart_helmet.jpg
 │
 ├── Demo/
 │   └── demo_link.txt
